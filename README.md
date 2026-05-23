@@ -14,7 +14,7 @@ Busco evoluir minha capacidade de resolver problemas, escrever códigos mais efi
 
 ## Objetivos
 
-*  Dominar lógica de programação
+*  Dominar lógica de programação e Orientação a Objetos
 *  Evoluir em Python
 *  Criar projetos práticos
 *  Ingressar na área de tecnologia
@@ -23,9 +23,7 @@ Busco evoluir minha capacidade de resolver problemas, escrever códigos mais efi
 
 ## Tecnologias
 
-* Python
-* SQL
-* Git & GitHub
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git)](https://skillicons.dev)
 
 ---
 
@@ -33,17 +31,6 @@ Busco evoluir minha capacidade de resolver problemas, escrever códigos mais efi
 
 🔹 logica-python-estudos
 - Exercícios diários com foco em evolução contínua utilizando da linguagem Python
-
----
-
-## Progresso
-
-Jornada atual:
-
-* ✔️ Estruturas condicionais
-* ✔️ Laços de repetição
-* 🔄 Funções (em andamento)
-* ⏳ Listas e dicionários
 
 ---
 
