@@ -1,10 +1,5 @@
 # 👨‍💻 Eduardo Henrique da Silva
 
-Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento lógico e evolução contínua.
-Em constante aprendizado, construindo uma base sólida para atuar na área de tecnologia.
-
----
-
 ## Sobre mim
 
 Atualmente estou focado no desenvolvimento da minha lógica de programação através de exercícios práticos diários.
@@ -23,20 +18,16 @@ Busco evoluir minha capacidade de resolver problemas, escrever códigos mais efi
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,java)](https://skillicons.dev)
 
 ---
 
 ## Repositórios em destaque
 
 🔹 logica-python-estudos
-- Exercícios diários com foco em evolução contínua utilizando da linguagem Python
-
----
-
-## Desafio pessoal
-
-Manter consistência nos estudos e compartilhar minha evolução diariamente aqui no GitHub.
+- Exercícios diários utilizando da linguagem Python.
+🔹java-estudos
+- Exercícios em Java buscando dominar a linguagem.
 
 ---
 
