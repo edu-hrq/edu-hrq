@@ -26,6 +26,7 @@ Busco evoluir minha capacidade de resolver problemas, escrever códigos mais efi
 
 🔹 logica-python-estudos
 - Exercícios diários utilizando da linguagem Python.
+
 🔹java-estudos
 - Exercícios em Java buscando dominar a linguagem.
 
