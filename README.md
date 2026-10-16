@@ -1,38 +1,88 @@
 # 👨‍💻 Eduardo Henrique da Silva
 
-## Sobre mim
+**`Desenvolvedor`**
 
-Atualmente estou focado no desenvolvimento da minha lógica de programação através de exercícios práticos diários.
-Busco evoluir minha capacidade de resolver problemas, escrever códigos mais eficientes e construir projetos cada vez mais estruturados para futuramente poder atuar na área de Dados.
+Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de sistemas na UNIBRA. Sou apaixonado por tecnologia e busco saber como tudo funciona desde pequeno. No momento, busco oportunidade de atuar como Estagiário na área e adquirir experiência no mercado.
 
----
-
-## Objetivos
-
-*  Dominar lógica de programação e Orientação a Objetos
-*  Evoluir em Python
-*  Criar projetos práticos
-*  Ingressar na área de tecnologia
-
----
-
-## Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=python,mysql,git,java)](https://skillicons.dev)
+<p align="left">
+    <a href="https://github.com/edu-hrq?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/edu-hrq?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ---
 
-## Repositórios em destaque
+### 🤖 Linguagens e Tecnologias
 
-🔹 logica-python-estudos
-- Exercícios diários utilizando da linguagem Python.
+ <img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
-🔹java-estudos
-- Exercícios em Java buscando dominar a linguagem.
+<img
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px"
+    style="padding-right: 5px"    
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<img
+    align="left" 
+    alt="PostreSQL"
+    title="PostgreSQL" 
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+<img
+    align="left"
+    alt="Insomnia"
+    title="Insomnia"
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 5px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
----
+<br>
+<br>
 
-## Contato
+### 📊 Estatísticas
 
-📌 LinkedIn: https://www.linkedin.com/in/eduardo-hnrq
-📌 GitHub: https://github.com/edu-hrq
+<p>
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 5px"
+    src="https://github-readme-stats.vercel.app/api?username=edu-hrq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&layout=compact" />
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="120"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-hrq&theme=tokyonight&custom_title=Uso das Linguagens&layout=compact&lang_count=2" />
