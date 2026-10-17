@@ -70,4 +70,4 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
     alt="GitHub Stats"
     height="200"
     style="padding-right: 5px"
-    src="https://github-readme-stats.vercel.app/api?username=edu-hrq&show_icons=true&theme=tokyonight&custom_title=Estatísticas de Eduardo&locale=pt-br&layout=compact" />
+    src="https://github-readme-stats.vercel.app/api?username=edu-hrq&show_icons=true&theme=tokyonight&custom_title=Estatisticas de Eduardo&locale=pt-br&layout=compact" />
