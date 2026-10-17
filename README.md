@@ -4,16 +4,6 @@
 
 Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de sistemas na UNIBRA. Sou apaixonado por tecnologia e busco saber como tudo funciona desde pequeno. No momento, busco oportunidade de atuar como Estagiário na área e adquirir experiência no mercado.
 
-<p align="left">
-    <a href="https://github.com/edu-hrq?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/edu-hrq?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
