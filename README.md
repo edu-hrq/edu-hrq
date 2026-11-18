@@ -9,7 +9,7 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
 ### 🤖 Linguagens e Tecnologias
 
  <img 
-    align="center" 
+    align="left" 
     alt="Python"
     title="Python" 
     width="30px"
@@ -17,42 +17,42 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img
-    align="center" 
+    align="left" 
     alt="Java"
     title="Java" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img 
-    align="center" 
+    align="left" 
     alt="MySQL"
     title="MySQL" 
     width="30px"
     style="padding-right: 5px"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img
-    align="center" 
+    align="left" 
     alt="PostreSQL"
     title="PostgreSQL" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img 
-    align="center" 
+    align="left" 
     alt="Spring"
     title="Spring" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img
-    align="center"
+    align="left"
     alt="Insomnia"
     title="Insomnia"
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 <img
-    align="center"
+    align="left"
     alt="Git"
     title="Git"
     width="30px"
@@ -70,4 +70,4 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
     alt="GitHub Stats"
     height="200"
     style="padding-right: 5px"
-    src="https://github-readme-stats.vercel.app/api?username=edu-hrq&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br" />
+    src="https://github-readme-stats.vercel.app/api?username=edu-hrq&show_icons=true&theme=tokyonight&layout=compact&locale=pt-br&align=center" />
