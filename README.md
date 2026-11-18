@@ -9,7 +9,7 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
 ### 🤖 Linguagens e Tecnologias
 
  <img 
-    align="left" 
+    align="center" 
     alt="Python"
     title="Python" 
     width="30px"
@@ -17,42 +17,42 @@ Me chamo Eduardo, tenho 21 anos e sou natural de Pernambuco. Atualmente, estou c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img
-    align="left" 
+    align="center" 
     alt="Java"
     title="Java" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img 
-    align="left" 
+    align="center" 
     alt="MySQL"
     title="MySQL" 
     width="30px"
     style="padding-right: 5px"    
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 <img
-    align="left" 
+    align="center" 
     alt="PostreSQL"
     title="PostgreSQL" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 <img 
-    align="left" 
+    align="center" 
     alt="Spring"
     title="Spring" 
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 <img
-    align="left"
+    align="center"
     alt="Insomnia"
     title="Insomnia"
     width="30px"
     style="padding-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" />
 <img
-    align="left"
+    align="center"
     alt="Git"
     title="Git"
     width="30px"
